@@ -1,0 +1,14 @@
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\obj\Debug\SearchFunctionality.csprojAssemblyReference.cache
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\obj\Debug\SearchFunctionality.csproj.CoreCompileInputs.cache
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\bin\Debug\SearchFunctionality.dll
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\bin\Debug\SearchFunctionality.pdb
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\bin\Debug\nunit.framework.dll
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\bin\Debug\WebDriver.dll
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\bin\Debug\WebDriver.Support.dll
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\bin\Debug\nunit.framework.pdb
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\bin\Debug\nunit.framework.xml
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\bin\Debug\WebDriver.xml
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\bin\Debug\WebDriver.Support.xml
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\obj\Debug\SearchFunctionality.csproj.CopyComplete
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\obj\Debug\SearchFunctionality.dll
+c:\users\lizam\source\repos\SearchFunctionality\SearchFunctionality\obj\Debug\SearchFunctionality.pdb
